@@ -1,0 +1,11 @@
+.DS_Store
+*.sln
+*.suo
+*.appxmanifest
+Package.StoreAssociation.xml
+*.pfx
+*.jsproj
+*.jsproj.user
+/RestoMenuUGent/AppPackages
+/RestoMenuUGent/bld
+/RestoMenuUGent/bin
