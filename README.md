@@ -10,4 +10,4 @@ You can download this app for free at the [Windows 8 App Store](http://apps.micr
 * Stefaan Vermassen
 
 ## Screenshot
-![Screenshot](https://raw.github.com/wpinnoo/RestoMenuUGent/master/RestoMenuUGent/screenshots/main.png "Screenshot")
+![Screenshot](https://raw.github.com/wpinnoo/RestoMenuUGent/master/screenshots/main.png "Screenshot")
