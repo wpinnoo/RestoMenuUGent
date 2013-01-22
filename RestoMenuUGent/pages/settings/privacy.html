@@ -1,0 +1,24 @@
+﻿<!doctype HTML>
+<html>
+<head>
+    <title>App settings flyout</title>
+    <script type="text/javascript" src="/js/settings.js"></script>
+</head>
+<body>
+    <!-- BEGINSETTINGSFLYOUT -->
+    <div data-win-control="WinJS.UI.SettingsFlyout"
+       " id="privacyPolicy"
+        data-win-options="{settingsCommandId:'privacyPolicy', width:'narrow'}">
+ 
+        <div class="win-ui-dark win-header">
+            <button type="button" onclick="WinJS.UI.SettingsFlyout.show()" class="win-backbutton"></button>
+            <div class="win-label">Privacy Policy</div>
+        </div>
+        <div class="win-content">
+            <p>This application does not share personal information with third parties nor does it store any information about you.</p>
+            <p>This privacy policy is subject to change without notice and was last updated on November 14, 2012. If you have any questions feel free to contact us directly at <a href="mailto:restomenu.ugent@gmail.com">restomenu.ugent@gmail.com</a>.</p>
+        </div>
+    </div>
+    <!-- ENDSETTINGSFLYOUT -->
+</body>
+</html>
