@@ -84,7 +84,7 @@
 
     function generateSampleData() {
         loadJQuery();
-        var url = "http://zeus.ugent.be/hydra/api/1.0/resto/week/";
+        var url = "http://zeus.ugent.be/hydra/api/1.0/resto/menu/2013/";
         var currentdate = new Date();
         var day = currentdate.getDate();
         var month = currentdate.getMonth() + 1;
